@@ -1,0 +1,32 @@
+{
+  "name": "constant_scraper",
+  "version": "1.0.0",
+  "description": "constant js web scraper",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.1",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "test": "exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiv213/JS-Constant-Web-Scraper.git"
+  },
+  "keywords": [
+    "js",
+    "scraper",
+    "web"
+  ],
+  "author": "shiv213",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiv213/JS-Constant-Web-Scraper/issues"
+  },
+  "homepage": "https://github.com/shiv213/JS-Constant-Web-Scraper#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
