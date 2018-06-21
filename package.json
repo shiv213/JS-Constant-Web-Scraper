@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/shiv213/JS-Constant-Web-Scraper#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "request": "^2.87.0"
   }
 }
